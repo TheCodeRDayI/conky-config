@@ -1,3 +1,3 @@
 # conky-config
 
-![alt ss](screenshot.png)
+![ss](screenshot.png)
